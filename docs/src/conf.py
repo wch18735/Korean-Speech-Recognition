@@ -46,6 +46,7 @@ release = '1.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+html_baseurl = 'html://sh951011.github.io/Korean-Speech-Recognition/'
 extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.doctest',
